@@ -20,7 +20,9 @@
   "devDependencies": {
     "eslint": "^5.5.0",
     "prettier": "^1.14.2",
-    "terraform-npm": "^0.2.6",
     "wsrun": "^2.2.1"
+  },
+  "dependencies": {
+    "lerna": "^8.0.2"
   }
 }
